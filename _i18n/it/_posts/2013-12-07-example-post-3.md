@@ -8,4 +8,4 @@ categories: it Messaggi
 
 ## Esempio 3
 
-Ancora in costruzione. Si prega di riprovare più tardi.
+Ancora in costruzione. Riprovare più tardi.
