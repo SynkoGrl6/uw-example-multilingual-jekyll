@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: posta
 title: Esempio post 3
 cover: cover.jpg
 date:   2013-12-07 12:00:00
-categories: it posts
+categories: it Messaggi
 ---
 
 ## Esempio 3
 
-Esempio 3
+Ancora in costruzione. Si prega di riprovare più tardi.
