@@ -8,4 +8,4 @@ categories: en posts
 
 ## Example 3
 
-Still under construction. Please try again later.
+Still under construction. Please try again sometime later.
