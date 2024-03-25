@@ -1,11 +1,11 @@
 ---
-layout: post
-title: Запись-пример 2
-cover: cover.jpg
+layout: почта
+title: Пример поста 2
+cover: обложка.jpg
 date:   2013-12-08 12:00:00
-categories: записи
+categories: сообщения
 ---
 
-## Example 2
+## Пример 2
 
-Пример 2
+Это создало новый проект?
