@@ -8,4 +8,4 @@ categories: en publicaciones
 
 ## Ejemplo 3
 
-Todavía en construcción. Vuelva a intentarlo más tarde.
+Todavía en construcción. Inténtalo de nuevo más tarde.
