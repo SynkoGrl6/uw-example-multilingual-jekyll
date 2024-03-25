@@ -1,11 +1,11 @@
 ---
-layout: post
-title: Ejemplo post 3
-cover: cover.jpg
+layout: correo
+title: Publicación de ejemplo 3
+cover: portada.jpg
 date:   2013-12-07 12:00:00
-categories: es posts
+categories: en publicaciones
 ---
 
 ## Ejemplo 3
 
-Ejemplo 3
+Todavía en construcción. Vuelva a intentarlo más tarde.
