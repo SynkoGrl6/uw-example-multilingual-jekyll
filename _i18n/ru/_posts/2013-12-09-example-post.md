@@ -1,15 +1,15 @@
 ---
-layout: post
-title: Запись-пример
-cover: cover.jpg
+layout: почта
+title: Пример поста
+cover: обложка.jpg
 date:   2013-12-09 12:00:00
-categories: записи
+categories: сообщения
 ---
 
-## Introducing Flex, a Jekyll theme
+## Представляем Flex, тему для Jekyll
 
-Flex - это минималистичная, респонсивная тема для вебсайтов [The Development](https://jekyllthemes.io/theme/flex).
+Flex - это минималистичная отзывчивая тема, созданная на основе сайта [The Development](https://jekyllthemes.io/theme/flex).
 
-## Open Sourced on GitHub
+## Открытые ресурсы на GitHub
 
-Flex имеет открытый исходный код на GitHub и лицензируется по лицензии MIT (https://opensource.org/licenses/MIT). Не стесняйтесь вносить свой вклад в любое время!
+Flex находится в открытом доступе на GitHub и лицензируется по [лицензии MIT](https://opensource.org/licenses/MIT). Не стесняйтесь вносить в него свой вклад в любое время!
